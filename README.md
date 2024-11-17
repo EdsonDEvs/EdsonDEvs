@@ -4,6 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edson_leandro_silva)<br>
 [![</Edson> GitHub stats](https://github-readme-stats.vercel.app/api?username=EdsonDevs&show_icons=true&theme=dracula)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdsonDevs)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://www.linkedin.com/in/edson-devs" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
